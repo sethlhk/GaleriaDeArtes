@@ -51,7 +51,7 @@ fun galeria(){
         verticalArrangement = Arrangement.Top,
         horizontalAlignment = Alignment.CenterHorizontally,
         modifier = Modifier
-            .padding(30.dp)
+            .padding(36.dp)
     ) {
      Artes (
          painter = painterResource(id = R.drawable.lucifer)
