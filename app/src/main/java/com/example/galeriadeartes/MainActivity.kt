@@ -45,7 +45,7 @@ fun galeria(){
     Surface(
         modifier = Modifier
             .fillMaxSize(),
-        color = Color.Gray
+        color = Color.Black
     ){
     Column(
         verticalArrangement = Arrangement.Top,
